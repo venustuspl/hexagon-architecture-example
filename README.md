@@ -15,3 +15,4 @@ It implements a domain-centric "Hexagonal" approach of a common web application 
 
 * JDK 8
 * this project uses Lombok, so enable annotation processing in your IDE
+"# hexagon-architecture-example" 
